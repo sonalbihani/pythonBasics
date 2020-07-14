@@ -17,5 +17,5 @@ def formatList(a):
         s+=" and " + a[l-1]
         print(s)
 
-formatList(["hi"])
+formatList([])
 
